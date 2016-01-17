@@ -1,3 +1,8 @@
+
+# Maya resource collector tool copied all of you Maya scene dependency to a new location. 
+# It is handy to archiving scenes, sending it to 3rd party etc.
+
+
 import maya.cmds as cmds
 import os
 import shutil
